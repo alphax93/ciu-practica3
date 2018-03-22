@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ciu-practica3", "ciu-practica3\ciu-practica3.vcxproj", "{CADB4CB8-35FF-4864-ADA0-72C9C2348A5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CADB4CB8-35FF-4864-ADA0-72C9C2348A5F}.Debug|x64.ActiveCfg = Debug|x64
+		{CADB4CB8-35FF-4864-ADA0-72C9C2348A5F}.Debug|x64.Build.0 = Debug|x64
+		{CADB4CB8-35FF-4864-ADA0-72C9C2348A5F}.Debug|x86.ActiveCfg = Debug|Win32
+		{CADB4CB8-35FF-4864-ADA0-72C9C2348A5F}.Debug|x86.Build.0 = Debug|Win32
+		{CADB4CB8-35FF-4864-ADA0-72C9C2348A5F}.Release|x64.ActiveCfg = Release|x64
+		{CADB4CB8-35FF-4864-ADA0-72C9C2348A5F}.Release|x64.Build.0 = Release|x64
+		{CADB4CB8-35FF-4864-ADA0-72C9C2348A5F}.Release|x86.ActiveCfg = Release|Win32
+		{CADB4CB8-35FF-4864-ADA0-72C9C2348A5F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAF265DC-140B-4E3A-B673-0253E06DFDF7}
+	EndGlobalSection
+EndGlobal
